@@ -199,8 +199,8 @@ Short description
 <hr>
 <h2>Dashboard Preview</h2>
 
-![Dashboard Overview](https://github.com/lucybbbb/Lisbon-Airbnb-Listings-Analysis-/blob/main/excel/Charts%20-%20analysis.pbit)
-![Dashboard Overview](https://github.com/lucybbbb/Lisbon-Airbnb-Listings-Analysis-/blob/main/excel/Charts.pdf)
+![Dashboard Overview](https://github.com/lucybbbb/movie-data/blob/main/docs/movie_data.pbit)
+   ![Dashboard Overview](https://github.com/lucybbbb/Lisbon-Airbnb-Listings-Analysis-/blob/main/excel/Charts.pdf)
 ---
     
 ##  Author
