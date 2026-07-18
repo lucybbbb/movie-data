@@ -169,7 +169,8 @@ Analyze:
 Actor appearances
 Average movie budget
 15. Which genre has the highest profit margin?
-Sometimes lower-budget genres outperform blockbusters.</p>
+Sometimes lower-budget genres outperform blockbusters.</p> 
+</pre>
 <hr>
 ##  Tools & Technologies
 
@@ -178,33 +179,23 @@ Sometimes lower-budget genres outperform blockbusters.</p>
 - 📊 **Power BI** — Interactive dashboards, data visualisation, and DAX measures
 - 📈 **Excel** — Data preparation and initial dataset review
 - 📝 **Git & GitHub** — Version control and project documentation
-# 🎬 Movie Analytics Project
-
+- 🎬 Movie Analytics Project
 <hr>
 Short description
-## 🛠️ Tools & Technologies
-
-## 📂 Project Structure
-
-## 📊 Dashboard Preview
-
+ 🛠️ Tools & Technologies
+ 📂 Project Structure
+ 📊 Dashboard Preview
 (images)
-
-## 🔍 Key Analysis
-
-## 📌 Key Insights
-
-## 📁 Files Included
+ 🔍 Key Analysis
+ 📌 Key Insights
+ 📁 Files Included
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-    
 <hr>
 <h2>Dashboard Preview</h2>
 
-![Dashboard Overview](https://github.com/lucybbbb/movie-data/blob/main/docs/movie_data.pbit)
-![Dashboard Overview](https://github.com/lucybbbb/movie-data/blob/main/docs/movie_data.pdf)
+![Dashboard Overview](https://github.com/lucybbbb/movie-data/blob/main/docs/movie_data.pbit)    ![Dashboard Overview](https://github.com/lucybbbb/movie-data/blob/main/docs/movie_data.pdf)
 
----
-    
+---   
 ##  Author
 
 **Luciana Bujor**
