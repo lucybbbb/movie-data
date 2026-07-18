@@ -169,9 +169,7 @@ Analyze:
 Actor appearances
 Average movie budget
 15. Which genre has the highest profit margin?
-
-Sometimes lower-budget genres outperform blockbusters.
- </p>
+Sometimes lower-budget genres outperform blockbusters.</p>
 <hr>
 ##  Tools & Technologies
 
@@ -184,7 +182,6 @@ Sometimes lower-budget genres outperform blockbusters.
 
 <hr>
 Short description
-
 ## 🛠️ Tools & Technologies
 
 ## 📂 Project Structure
